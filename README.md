@@ -24,5 +24,5 @@ fn main() {
 ### Cargo.toml
 ```bash
 [dependencies]
-dsu = {git = "https://github.com/mingendo/dsu.git", branch="master"}
+dsu = {git = "https://github.com/mingendo/dsu.git", branch="main"}
 ```
